@@ -1,0 +1,26 @@
+{
+  "name": "market-prediction",
+  "version": "1.0.0",
+  "description": "The application is designed to help teachers, students, and educational authorities analyze student performance across various categories:\r - Performance based on subjects.\r - Comparisons between regions or faculties.\r - Visualization of long-term performance trends.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olimpia20/market-prediction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olimpia20/market-prediction/issues"
+  },
+  "homepage": "https://github.com/olimpia20/market-prediction#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
